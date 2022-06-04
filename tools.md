@@ -251,3 +251,19 @@ Beyond Compare is focused. Beyond Compare allows you to quickly and easily compa
 ## Ubuntu Pastebin
 You can share your code with others conveniently with it.
 Website: https://paste.ubuntu.com/
+
+## Qt Creator
+
+Qt Creator是一个用于Qt开发的轻量级跨平台集成开发环境。Qt Creator可带来两大关键益处：提供首个专为支持跨平台开发而设计的集成开发环境 (IDE)，并确保首次接触Qt框架的开发人员能迅速上手和操作。即使不开发Qt应用程序，Qt Creator也是一个简单易用且功能强大的IDE。
+Qt Creator包含了一套用于创建和测试基于Qt应用程序的高效工具，包括：
+一个高级的C++代码编辑器 上下文感知帮助系统 可视化调试器 源代码管理 项目和构建管理工具
+
+Website:https://www.qt.io/zh-cn/
+
+## Qt Designer
+
+  Qt Designer是PyQt程序UI界面的实现工具，使用Qt Designer可以拖拽、点击完成GUI界面设计，并且设计完成的.ui程序可以转换成.py文件供python程序调用。本文主要通过用户登录需求描述Qt Designer工具开发界面的使用方法。
+
+## Qt Assistant
+Qt Assistant是一个整合了qt内部的各种类、函数、信号与槽的帮助文档，可以帮助开发者快速找到想要获取的信息。
+Qt Assistant有完整的索引、搜索功能与方便的链接系统，使用轻松。
